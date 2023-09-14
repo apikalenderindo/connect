@@ -1,3 +1,4 @@
+<?php
 $x = 'a';
 $y = 'z';
 $xyz = range($x,$y);
